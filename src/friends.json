@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/aa/Bruce_Wayne_%28David_Mazouz%29.png/220px-Bruce_Wayne_%28David_Mazouz%29.png",
+        "clicked": false
+    },
+    {
+        "id": 2,
+        "image": "https://www.dccomics.com/sites/default/files/imce/2014/03-MAR/GOTHAM%20Character%20Look-Selina%20Kyle_532c72a56d6422.91215989.jpg",
+        "clicked": false
+    },
+    {
+        "id": 3,
+        "image": "https://vignette.wikia.nocookie.net/batman/images/b/be/Alfred-Gotham1.jpg/revision/latest?cb=20140802141958",
+        "clicked": false
+    },
+    {
+        "id": 4,
+        "image": "https://bloximages.chicago2.vip.townnews.com/qctimes.com/content/tncms/assets/v3/editorial/f/e5/fe5163fd-fe75-5a65-8dbe-84acb01eba72/53eea0acf0b4d.image.jpg",
+        "clicked": false
+    },
+    {
+        "id": 5,
+        "image": "https://i.pinimg.com/originals/ad/14/fd/ad14fd8d9f515270aad9ecb39e653260.jpg",
+        "clicked": false
+    },
+    {
+        "id": 6,
+        "image": "https://img.sharetv.com/shows/characters/large/gotham.edward_nygma.jpg",
+        "clicked": false
+    },
+    {
+        "id": 7,
+        "image": "https://vignette.wikia.nocookie.net/p__/images/4/48/James_Gordon_Gotham_Season_2.png/revision/latest?cb=20151023130918&path-prefix=protagonist",
+        "clicked": false
+    },
+    {
+        "id": 8,
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Jerome_Valeska.jpg/220px-Jerome_Valeska.jpg",
+        "clicked": false
+    },
+    {
+        "id": 9,
+        "image": "https://vignette.wikia.nocookie.net/marvel_dc/images/c/c5/Fish_Mooney_%28Gotham%29.jpg/revision/latest?cb=20140922213757",
+        "clicked": false
+    },
+    {
+        "id": 10,
+        "image": "https://vignette.wikia.nocookie.net/villains/images/4/49/One_of_My_Three_Soups2956.jpg/revision/latest?cb=20180403102749",
+        "clicked": false
+    },
+    {
+        "id": 11,
+        "image": "https://www.samishleather.com/wp-content/uploads/2017/01/Harvey-Bullock-Gotham-Coat-450x600.jpg",
+        "clicked": false
+    },
+    {
+        "id": 12,
+        "image": "https://static.tumblr.com/dee4b679cf7f053f6785af2a8ce590aa/swcmusj/IMAoqcyz2/tumblr_static_5pk9k2yn4zcwgwcokscg4ckwg.png",
+        "clicked": false
+    }
+]
